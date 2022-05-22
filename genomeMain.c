@@ -17,10 +17,17 @@ main()
     // TODO: call the convert_to_codons
 
     printf("\nCodons: ");
-    // TODO: call the print_genome function using the user-entered genome
+    // TODO: call the print_genome function using the converted codons
 
-    printf("\nAnticodons");
-    // TODO: call the print_genome function using the user-entered genome
+    // TODO: call the convert_to_anticodons
+    
+    printf("\nAnticodons: ");
+    // TODO: call the print_genome function using the converted anticodons
+
+    // TODO: call the convert_to_protein
+    
+    printf("\nProteins: ");
+    // TODO: call the print_protein function using the converted proteins
 
     return 0;
 }
