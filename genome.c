@@ -139,10 +139,9 @@ convert_to_anticodons(
  */
 void 
 convert_to_protein(
-    AminoAcid aminoAcids, 
-    Triplet anticodon, 
-    int max
-)
+    Protein protein, 
+    Gene anticodons, 
+    int max)
 {
     // TODO: finish the function
 }

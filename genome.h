@@ -29,6 +29,6 @@ void get_anticodon(Triplet anticodon, Triplet codon);
 void get_amino_acid(AminoAcid aminoAcid, Triplet anticodon);
 void convert_to_codons(Gene codons, Gene genome, int max);
 void convert_to_anticodons(Gene anticodons, Gene codons, int max);
-void convert_to_protein(AminoAcid aminoAcids, Triplet anticodon, int max);
+void convert_to_protein(Protein protein, Gene anticodons, int max);
 
 #endif
