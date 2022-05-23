@@ -19,7 +19,7 @@ typedef AminoAcid Protein[MAX_TRIPLET];
 #define ALANINE         "GCC"
 #define CYSTINE         "UGC"
 #define LYSINE          "AAA"
-#define ARGININE        "ARG"
+#define ARGININE        "UCC"
 #define NON_FUNCTIONAL  "---"
 
 void print_genome(Gene genome, int max);
