@@ -8,3 +8,5 @@ Save a copy if you want! hehe
 p.s. sana understandable yung docs HAHAHAHHASKLJASDLCASJFKEWHcihduvbHJ
 
 Good luck and try finishing it under an hour!
+(Also if you want to see my solution, 
+go to my-solution branch)
